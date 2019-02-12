@@ -24,6 +24,7 @@ public class Meal {
     public String getDescription() {
 
         return description;
+
     }
 
     public int getCalories() {
