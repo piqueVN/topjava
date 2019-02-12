@@ -22,6 +22,7 @@ public class Meal {
     }
 
     public String getDescription() {
+
         return description;
     }
 
